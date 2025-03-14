@@ -1,1 +1,1 @@
-# Pomodoro
+# Pomodoro timer - Chrome extension
